@@ -293,7 +293,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src","https://www.youtube.com/embed/wdSR279iRsA");
+  ifrm.setAttribute("src", "https://www.youtube-nocookie.com/embed/RAFr_h8IML0?start=6");
   //ifrm.style.width = `${w}px`;
   //ifrm.style.height = `${h}px`;
   ifrm.style.border = 'none';
